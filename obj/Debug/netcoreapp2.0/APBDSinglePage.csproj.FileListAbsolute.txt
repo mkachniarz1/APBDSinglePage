@@ -1,0 +1,10 @@
+/Users/maciejkachniarz/Documents/APBDSinglePage/bin/Debug/netcoreapp2.0/APBDSinglePage.deps.json
+/Users/maciejkachniarz/Documents/APBDSinglePage/bin/Debug/netcoreapp2.0/APBDSinglePage.runtimeconfig.json
+/Users/maciejkachniarz/Documents/APBDSinglePage/bin/Debug/netcoreapp2.0/APBDSinglePage.runtimeconfig.dev.json
+/Users/maciejkachniarz/Documents/APBDSinglePage/bin/Debug/netcoreapp2.0/APBDSinglePage.dll
+/Users/maciejkachniarz/Documents/APBDSinglePage/bin/Debug/netcoreapp2.0/APBDSinglePage.pdb
+/Users/maciejkachniarz/Documents/APBDSinglePage/obj/Debug/netcoreapp2.0/APBDSinglePage.csproj.CoreCompileInputs.cache
+/Users/maciejkachniarz/Documents/APBDSinglePage/obj/Debug/netcoreapp2.0/APBDSinglePage.AssemblyInfoInputs.cache
+/Users/maciejkachniarz/Documents/APBDSinglePage/obj/Debug/netcoreapp2.0/APBDSinglePage.AssemblyInfo.cs
+/Users/maciejkachniarz/Documents/APBDSinglePage/obj/Debug/netcoreapp2.0/APBDSinglePage.dll
+/Users/maciejkachniarz/Documents/APBDSinglePage/obj/Debug/netcoreapp2.0/APBDSinglePage.pdb
