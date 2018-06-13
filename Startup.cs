@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
+using APBDSinglePage.Models;
 
 namespace APBDSinglePage
 {
@@ -22,6 +24,9 @@ namespace APBDSinglePage
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            services.AddDbContext<AnimalContext>(options => 
+                                                options.UseSqlite("Data Source=Animal.db"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
